@@ -9,14 +9,50 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux%20x86__64-111111?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Bash%20%2F%20Fast--Git-111111?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Netns%20%2F%20Sockets%20%2F%20C-111111?style=flat-square&logo=wireguard&logoColor=white" />
+</p>
+
 ---
 
-### 🖥️ Dev Environment Specs
+### 🐍 Contribution Snake
 
-```bash
-$ neofetch --type Minimal
-OS: Linux x86_64
-Shell: GNU Bash / Fast-Git CLI
-Terminal: Alacritty / Kitty
-Editor: Neovim / VS Code
-Focus: Linux Netns (`netns`), Sockets, Bash Automation, C
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nxseif/nxseif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake" />
+</p>
+
+---
+
+### 🛠️ Tech Stack & Badges
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard"/>
+</p>
+
+---
+
+### 🚀 Featured Tools
+
+| Tool | Stack | Description |
+| :--- | :--- | :--- |
+| **[Nxvpn](https://github.com/nxseif/Nxvpn)** | Linux / `netns` / WireGuard | Isolated WireGuard VPN runner inside Linux network namespaces. |
+| **[netchecker](https://github.com/nxseif/netchecker)** | Bash / Networking | Automated route and socket connectivity diagnostic tool. |
+| **[portpeek](https://github.com/nxseif/portpeek)** | Sockets / C / Bash | Rapid local port and interface probing utility. |
+| **[fast-git](https://github.com/nxseif/fast-git)** | Bash Automation | Custom wrapper streamlining Git staging, commits, and pushes. |
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxseif&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>

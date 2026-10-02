@@ -49,9 +49,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-### 📈 Activity Graph
 
 ### 📈 Commit Activity
 

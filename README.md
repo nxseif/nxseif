@@ -53,6 +53,8 @@
 
 ### 📈 Activity Graph
 
+### 📈 Commit Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nxseif&theme=github-dark&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&hide_border=true" width="100%" alt="nxseif commit activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="nxseif stats" />
 </p>

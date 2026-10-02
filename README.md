@@ -53,5 +53,7 @@
 ### 📈 Commit Activity
 
 <p align="center">
-  <code><b>System Stats:</b> 61 Commits | 3 Stars | 4 Repositories | Primary Stack: C & Bash</code>
+  <img src="https://img.shields.io/badge/Shell-45.6%25-111111?style=for-the-badge&logo=gnu-bash&logoColor=green" />
+  <img src="https://img.shields.io/badge/C-27.9%25-111111?style=for-the-badge&logo=c&logoColor=blue" />
+  <img src="https://img.shields.io/badge/CSS-26.4%25-111111?style=for-the-badge&logo=css3&logoColor=purple" />
 </p>

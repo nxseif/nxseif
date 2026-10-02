@@ -1,17 +1,10 @@
 ## Hi there 👋
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxseif&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxseif&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxseif&layout=compact&theme=dracula&hide_border=true" width="48%" />
+</p>
 
 
 

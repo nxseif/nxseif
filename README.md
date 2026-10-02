@@ -53,5 +53,5 @@
 ### 📈 Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="nxseif stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&bg_color=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&count_private=true" width="100%" />
 </p>

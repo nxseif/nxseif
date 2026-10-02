@@ -17,7 +17,6 @@
 
 ---
 
-### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nxseif/nxseif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake" />
@@ -52,7 +51,8 @@
 
 ### 📊 GitHub Activity
 
+### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxseif&layout=compact&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nxseif&theme=github-dark&bg_color=0D1117&color=00FF66&line=00FF66&point=FFFFFF&hide_border=true" width="100%" alt="nxseif commit activity graph" />
 </p>

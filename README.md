@@ -53,5 +53,5 @@
 ### 📈 Commit Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=dark&hide_border=true&count_private=true" width="100%" />
+  <code><b>System Stats:</b> 61 Commits | 3 Stars | 4 Repositories | Primary Stack: C & Bash</code>
 </p>

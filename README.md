@@ -1,17 +1,8 @@
 ## Hi there 👋
 
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nxseif&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxseif&layout=compact&theme=transparent&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nxseif&theme=transparent&hide_border=true" width="97%" />
-</p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=100&lines=root%40nxseif%3A~%23+whoami;Cloud+%26+DevOps+Engineer;Linux+%2F+Network+Namespaces+%2F+Bash" alt="Terminal Header" />
+</div>
 
 ![Monkeytype WPM](https://img.shields.io/badge/Monkeytype-85%20WPM-111111?style=for-the-badge&logo=monkeytype&logoColor=yellow)
 ![Accuracy](https://img.shields.io/badge/Accuracy-100%25-brightgreen?style=for-the-badge)

@@ -1,6 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=100&lines=root%40nxseif%3A~%23+whoami;1st-Year+IT+Student;Aspiring+Cloud+%26+DevOps+Engineer;Linux+%2F+Network+Namespaces+%2F+Bash" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF66&center=true&vCenter=true&width=700&height=100&lines=root%40nxseif%3A~%23+whoami;Linux+%2F+Network+Namespaces+%2F+Bash" alt="Terminal Header" />
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkOHR5OG9scXRxOHB6dDRxdWVsZDJmcnpzb3AyaWdtM2xscG10ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSx0g72aR5d1C0/giphy.gif" width="100" alt="Pixel Bat" />
+</p>
 
 <p align="center">
   <a href="https://monkeytype.com">
@@ -17,14 +21,7 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nxseif/nxseif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake" />
-</p>
-
----
-
-### 🛠️ Tech Stack & Badges
+### 🛠 Tech Stack & Badges
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -48,7 +45,6 @@
 | **[fast-git](https://github.com/nxseif/fast-git)** | Bash Automation | Custom wrapper streamlining Git staging, commits, and pushes. |
 
 ---
-
 
 ### 📈 Commit Activity
 

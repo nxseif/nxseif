@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.giphy.com/3o7TKSx0g72aR5d1C0.gif" width="100" alt="Pixel Bat" />
+  <img src="https://raw.githubusercontent.com/nikitavoloboev/small-icons/main/icons/bat.gif" width="80" alt="Pixel Bat" />
 </p>
 
 <p align="center">

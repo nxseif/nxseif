@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZkOHR5OG9scXRxOHB6dDRxdWVsZDJmcnpzb3AyaWdtM2xscG10ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSx0g72aR5d1C0/giphy.gif" width="100" alt="Pixel Bat" />
+  <img src="https://i.giphy.com/3o7TKSx0g72aR5d1C0.gif" width="100" alt="Pixel Bat" />
 </p>
 
 <p align="center">

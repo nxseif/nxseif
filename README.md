@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://monkeytype.com">
-    <img src="https://img.shields.io/badge/Monkeytype-85%20WPM-111111?style=for-the-badge&logo=monkeytype&logoColor=yellow" alt="Monkeytype Speed"/>
+    <img src="https://img.shields.io/badge/Monkeytype-95%20WPM-111111?style=for-the-badge&logo=monkeytype&logoColor=yellow" alt="Monkeytype Speed"/>
     <img src="https://img.shields.io/badge/Accuracy-100%25-brightgreen?style=for-the-badge" alt="Accuracy"/>
   </a>
 </p>
